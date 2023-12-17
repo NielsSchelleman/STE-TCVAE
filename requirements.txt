@@ -1,0 +1,3 @@
+torchlayers-nightly==1701821247
+torch
+torchvision
